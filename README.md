@@ -16,3 +16,9 @@ Lista
 ![IMG]( https://www.roboticaeducacional.org/ )
 ![imagem]( https://www.roboticaeducacional.org/ )
 ![Imagem ( https://www.roboticaeducacional.org/ )]
+
+'''
+function soma(a,b) {
+return a+b;
+}
+'''
