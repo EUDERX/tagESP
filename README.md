@@ -23,5 +23,5 @@ return a+b;
 }
 '''
 
-- [ X ] Area Membros
+- [X] Area Membros
 - [ ] Carlos
